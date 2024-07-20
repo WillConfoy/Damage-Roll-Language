@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "o5J+4JVPhfg=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Will\\Documents\\fun\\F#\\Damage-Roll-Language\\code\\code.fsproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Will\\.nuget\\packages\\fsharp.core\\8.0.301\\fsharp.core.8.0.301.nupkg.sha512"
+  ],
+  "logs": []
+}
