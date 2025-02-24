@@ -1,6 +1,6 @@
 This is a simple domain specific language for rolling various sided dice written in F#.
 
-It understands the typical syntax used for TTRGs, and will roll the requested dice and then print the result to stdout. It expects a file with code within it, so you can run a program with "dotnet run [relative path]" while you're in the code directory.
+It understands the typical syntax used for TTRPGs, and will roll the requested dice and then print the result to stdout. It expects a file with code within it, so you can run a program with "dotnet run [relative path]" while you're in the code directory.
 
 An example program might look like:
 
